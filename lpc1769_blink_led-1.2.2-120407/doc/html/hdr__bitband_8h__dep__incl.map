@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$config_8h.html" title="Basic configuration of the project." alt="" coords="5,155,301,181"/>
+<area shape="rect" id="node7" href="$hdr__pincon_8h.html" title="Header with definition of bits in Pin Connect Block registers." alt="" coords="398,80,751,107"/>
+<area shape="rect" id="node14" href="$hdr__gpio_8h.html" title="Header with definition of bits in GPIO control registers." alt="" coords="776,80,1115,107"/>
+<area shape="rect" id="node17" href="$hdr__sc_8h.html" title="Header with definition of bits in System Control registers." alt="" coords="325,155,651,181"/>
+<area shape="rect" id="node5" href="$main_8c.html" title="Sample LPC1769 project." alt="" coords="343,229,632,256"/>
+<area shape="rect" id="node9" href="$gpio_8h.html" title="Header for gpio.c." alt="" coords="675,155,960,181"/>
+<area shape="rect" id="node11" href="$gpio_8c.html" title="GPIO driver." alt="" coords="675,229,959,256"/>
+</map>
